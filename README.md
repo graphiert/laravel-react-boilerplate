@@ -10,6 +10,7 @@
 ## Additional steps after cloning:
 ```
 $ cd laravel-react-boilerplate
+$ rm .git/
 $ composer install
 $ npm install
 $ cp .env.example .env

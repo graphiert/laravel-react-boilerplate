@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Archived
+Laravel 12 has been released this February, with new starter kit. Please use Laravel 12 instead.
+
 ## Additional steps after cloning:
 ```
 $ mv laravel-react-boilerplate myapp
